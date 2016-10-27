@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /demo/nn/WebContent/WEB-INF/
+  - source: /demo/nn/WebContent/WEB-INF/NewFile.html
     destination: /var/www/html/
 hooks:
   BeforeInstall:
